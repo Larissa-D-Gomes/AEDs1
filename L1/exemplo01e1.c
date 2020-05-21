@@ -21,7 +21,7 @@ int main()
         printf("O lado do quadrado e: %lf ", lado);// fornecer o lado
    }
    else 
-	   printf("Erro, area invelida.\n");
+	   printf("Erro, area invalida.\n");
    printf("aperte ENTER para finalizar o programa\n");
    fflush ( stdin ); // limpar a entrada de dados     
    getchar( );  // aguardar por ENTER   
